@@ -78,13 +78,17 @@
 .desktop-image-section-1-element-img-1 {
   height: 400px;
   position: relative;
-  transform: scaleX(-1);
+ 
 }
 
 .desktop-image-section-1-element-img-2 {
   height: 400px;
   position: absolute;
   margin: 0px 0px 0px -500px;
+ 
+}
+
+.girl-image{
   transform: scaleX(-1);
 }
 
@@ -874,7 +878,7 @@ margin-top: 50px;
   bottom: 0;
 }
 
-.custom-text {
+.raw-names {
   position: absolute;
   top: 50%;
   left: 50%;
